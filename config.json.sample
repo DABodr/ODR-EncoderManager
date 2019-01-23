@@ -44,20 +44,20 @@
             "bitrate": "96",
             "zmq_output": [
                 {
-                    "host": "192.168.40.120",
-                    "enable": "false",
-                    "name": "Mux test 120",
-                    "port": "9002"
+                    "host": "localhost",
+                    "enable": "true",
+                    "name": "localhost output",
+                    "port": "9001"
                 },
                 {
                     "host": "192.168.40.116",
-                    "enable": "true",
+                    "enable": "false",
                     "name": "Mux test 116",
                     "port": "9001"
                 },
                 {
                     "host": "192.168.40.117",
-                    "enable": "true",
+                    "enable": "false",
                     "name": "Mux test 117",
                     "port": "9001"
                 }
