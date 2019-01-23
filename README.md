@@ -10,6 +10,7 @@ This configuration ensure your user is "pi"
   * Add pi user to audio group : `sudo usermod -a -G audio pi`
   * Got to pi user home : `cd /home/pi/`
   * Clone git repository : `git clone https://github.com/DABodr/ODR-EncoderManager`
+  * Rename sample config : `mv /home/pi/ODR-EncoderManager/config.json.sample /home/pi/ODR-EncoderManager/config.json`
   * Make the symlink: `sudo ln -s /home/pi/ODR-EncoderManager/supervisor-encoder.conf /etc/supervisor/conf.d/odr-encoder.conf`
   * Make the symlink: `sudo ln -s /home/pi/ODR-EncoderManager/supervisor-gui.conf /etc/supervisor/conf.d/odr-gui.conf`
   * Edit `/etc/supervisor/supervisord.conf` and add this section if needed:
