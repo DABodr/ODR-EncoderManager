@@ -1,0 +1,30 @@
+[23/Jan/2019:16:47:14] ENGINE Bus STARTING
+[23/Jan/2019:16:47:14] ENGINE Started monitor thread '_TimeoutMonitor'.
+[23/Jan/2019:16:47:14] ENGINE Serving on http://0.0.0.0:8080
+[23/Jan/2019:16:47:14] ENGINE Bus STARTED
+[23/Jan/2019:16:48:03] ENGINE Started monitor thread 'Session cleanup'.
+[23/Jan/2019:16:53:30] ENGINE Bus STARTING
+[23/Jan/2019:16:53:30] ENGINE Started monitor thread '_TimeoutMonitor'.
+[23/Jan/2019:16:53:30] ENGINE Serving on http://0.0.0.0:8080
+[23/Jan/2019:16:53:30] ENGINE Bus STARTED
+[23/Jan/2019:16:53:33] ENGINE Started monitor thread 'Session cleanup'.
+[23/Jan/2019:16:55:31] ENGINE Bus STARTING
+[23/Jan/2019:16:55:31] ENGINE Started monitor thread '_TimeoutMonitor'.
+[23/Jan/2019:16:55:31] ENGINE Serving on http://0.0.0.0:8080
+[23/Jan/2019:16:55:31] ENGINE Bus STARTED
+[23/Jan/2019:16:56:09] ENGINE Started monitor thread 'Session cleanup'.
+[23/Jan/2019:16:58:47] ENGINE Bus STARTING
+[23/Jan/2019:16:58:47] ENGINE Started monitor thread '_TimeoutMonitor'.
+[23/Jan/2019:16:58:47] ENGINE Serving on http://0.0.0.0:8080
+[23/Jan/2019:16:58:47] ENGINE Bus STARTED
+[23/Jan/2019:16:58:59] ENGINE Started monitor thread 'Session cleanup'.
+[23/Jan/2019:17:05:30] ENGINE Bus STARTING
+[23/Jan/2019:17:05:30] ENGINE Started monitor thread '_TimeoutMonitor'.
+[23/Jan/2019:17:05:30] ENGINE Serving on http://0.0.0.0:8080
+[23/Jan/2019:17:05:30] ENGINE Bus STARTED
+[23/Jan/2019:17:05:33] ENGINE Started monitor thread 'Session cleanup'.
+[23/Jan/2019:17:10:16] ENGINE Bus STARTING
+[23/Jan/2019:17:10:16] ENGINE Started monitor thread '_TimeoutMonitor'.
+[23/Jan/2019:17:10:16] ENGINE Serving on http://0.0.0.0:8080
+[23/Jan/2019:17:10:16] ENGINE Bus STARTED
+[23/Jan/2019:17:10:28] ENGINE Started monitor thread 'Session cleanup'.
